@@ -8,7 +8,8 @@ This repo will contain a bash script named “cars.sh” that will help a user m
 - type the number 2 to display the list of cars
 - type the number 3 to quit and exit the program   
  
-### If the user chooses to enter a car they will be prompted separately for the:
+### If the user chooses to enter a car they will be prompted separately for the: 
+
 * Year
 * Make
 * Model  
