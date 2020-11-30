@@ -1,3 +1,9 @@
+# Identifying Information
+### Name:Viola Kalinin
+Student ID: 2366893
+Email: kalinin@chapman.edu
+Class: CPSC 298 Section 1
+Assignment: cars
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
@@ -21,4 +27,10 @@ The program will display the lines of the My_old_cars file, sorted by year
 
 ### If the user chooses to Quit  
 The program will display a “Goodbye” message and exit.
-
+#Files 
+### 1. cars.sh
+2. cars-input
+3. My_old_cars
+#Known Errors 
+#Refrences 
+### I had an issue with appending the new string to the My_old_cars file, but after a search I found that I needed to echo the string and then use the >>. Here is the source I found: https://stackoverflow.com/questions/6207573/how-to-append-output-to-the-end-of-a-text-file 
