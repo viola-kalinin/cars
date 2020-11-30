@@ -1,5 +1,5 @@
 # Identifying Information
-^M
+
 1. Name:Viola Kalinin
 2. Student ID: 2366893
 3. Email: kalinin@chapman.edu
@@ -28,12 +28,10 @@ The program will display the lines of the My_old_cars file, sorted by year
 
 ### If the user chooses to Quit  
 The program will display a “Goodbye” message and exit.
-# Files 
-^M 
+# Files  
 1. cars.sh
 2. cars-input
 3. My_old_cars
 # Known Errors 
 # Refrences 
-^M
 I had an issue with appending the new string to the My_old_cars file, but after a search I found that I needed to echo the string and then use the >>. Here is the source I found: https://stackoverflow.com/questions/6207573/how-to-append-output-to-the-end-of-a-text-file 
