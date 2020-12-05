@@ -22,9 +22,7 @@ do
 			echo "Enter model: "
                         read model
 			string+=$model 
-			echo $string >> My_old_cars
-			echo $string 
-			echo "Car added!";; 
+			echo $string >> My_old_cars;; 
 		2)
 			sort My_old_cars;;
 		3)
